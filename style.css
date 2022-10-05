@@ -1,0 +1,22 @@
+h1 {
+  color:black;
+  font-family:helvetica;
+  background-color:pink;
+}
+
+p {
+  color:purple;
+  background-color:blue;
+}
+
+h2 {
+  color:pink;
+}
+
+body {
+  background-color:yellow;
+}
+
+img {
+  border: 5px solid fuchsia;
+}
